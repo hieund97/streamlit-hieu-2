@@ -5,7 +5,7 @@ import streamlit as st
 import time
 
 
-st.title("Kiểm tra độ dài tên của bản")
+st.title("Kiểm tra")
 
 name  = st.text_input("Nhập tên vào đây: ")
 
@@ -24,6 +24,5 @@ if st.button("Kiểm tra độ dài tên"):
 if st.button("Click"):
     st.balloons()
     st.success("Chúc mừng bạn đã bấm nút   ")
-    
-    
+
 
