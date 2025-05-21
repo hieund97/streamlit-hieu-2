@@ -23,7 +23,7 @@ if st.button("Kiểm tra độ dài tên"):
 
 if st.button("Click"):
     st.balloons()
-    st.success("Chúc mừng bạn đã bấm nút")
+    st.success("Chúc mừng bạn đã bấm nút   ")
     
     
 
